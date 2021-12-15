@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "stores": "apps/stores",
+    "stores-e2e": "apps/stores-e2e"
+  }
+}
